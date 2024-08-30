@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Winna Cabale
 
-<!--
-**WinnaCabale/WinnaCabale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱 What people should know about me is that I love animals and like crying alone.
 
-Here are some ideas to get you started:
+🍪 My hobbies are baking, playing video games, reading manga and manhwa, and watching films and animes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👾 My personal projects that I have not finish is titled Purrfectly Epic Fantasy which is a game.
+
+🛠️ Languages and Tools:
+  - c
+  - css3
+  - dart
+  - firebase
+  - flutter
+  - html5
+  - java
+  - javascript
+  - mysql
+  - python
