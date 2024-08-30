@@ -17,3 +17,7 @@ Hi 👋, I'm Winna Cabale
   - javascript
   - mysql
   - python
+
+
+  Exercise 01 -- Success!
+  Check out my Personal Github account: https://github.com/WinnaCabale
