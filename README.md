@@ -1,6 +1,6 @@
 Hi 👋, I'm Winna Cabale
 
-🐱 What people should know about me is that I love animals and like crying alone.
+🐱 What people should know about me is that I love animals and I annnnnnnnnnnnnnnnnnnnnnnnnnnnm quite sensitivemnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
 
 🍪 My hobbies are baking, playing video games, reading manga and manhwa, and watching films and animes.
 
